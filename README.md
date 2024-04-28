@@ -1,5 +1,5 @@
 ## Jetty Boot
-This is a small arcade machine playing Deep Rock Galactic's Jetty Boot minigame. 
+This is a small arcade machine playing Deep Rock Galactic's Jetty Boot minigame. Assets shared with permission from Ghost Ship Games.
 
 <img src="https://github.com/dusanp/JettyBoot/assets/2307540/df4c680e-67e2-4fde-9c1b-2c5d8908a68f" width="50%" height="50%">
 
